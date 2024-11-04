@@ -4,7 +4,7 @@ title: Home
 colors: colors-a
 backgroundImage:
   type: BackgroundImage
-  url: /images/download.jpeg
+  url: /images/circuit-7955446_1280.webp
   backgroundSize: cover
   backgroundPosition: center
   backgroundRepeat: no-repeat
